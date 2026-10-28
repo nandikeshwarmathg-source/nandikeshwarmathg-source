@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Gouri 👋
 
-<!--
-**nandikeshwarmathg-source/nandikeshwarmathg-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML undergraduate (B.E. 2027) at Jain College of Engineering and Technology, Hubballi.
+I'm interested in machine learning and software development, and I'm building projects to learn by doing.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Python, Java, C
+- **Web:** React.js
+- **ML / Data:** NumPy, Pandas, Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **[Project name](link)**: one line on what it does and the tech used
+- **[Project name](link)**: one line on what it does and the tech used
+
+## 🎯 Currently
+- Learning deeper machine learning and deep learning
+- Looking for ML / Software Development internships and roles
+
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/gouri-nandikeshwarmath-a49278378)
+- Email: your-email@example.com
