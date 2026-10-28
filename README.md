@@ -9,8 +9,14 @@ I'm interested in machine learning and software development, and I'm building pr
 - **ML / Data:** NumPy, Pandas, Matplotlib
 
 ## 🚀 Projects
-- **[Project name](link)**: one line on what it does and the tech used
-- **[Project name](link)**: one line on what it does and the tech used
+
+- **[Autoencoder-Based Heritage Image Clustering for 3D Reconstruction](link)** (Major project)
+  A web platform for preserving heritage monuments digitally. Users upload 2D images of a structure, an autoencoder-based clustering pipeline groups the images, and the system generates a 3D model with its dimensions (length, width, height) and historical background.
+  `Python` `Deep Learning` `Autoencoder` `Clustering` `3D Reconstruction`
+
+- **[AI Interview Preparation Assistant](link)**
+  A virtual interviewer that simulates a real interview. The user picks a company (for example, Google) and a domain (for example, Python), and the assistant asks relevant questions and takes the user's answers.
+  `Python` `AI`
 
 ## 🎯 Currently
 - Learning deeper machine learning and deep learning
@@ -18,4 +24,4 @@ I'm interested in machine learning and software development, and I'm building pr
 
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/gouri-nandikeshwarmath-a49278378)
-- Email: your-email@example.com
+
